@@ -1,5 +1,7 @@
 # Hydejack Starter Kit
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e69a636-d4af-4e24-bd6b-734ca41adb94/deploy-status)](https://app.netlify.com/sites/lucid-einstein-07da63/deploys)
+
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
 ## Quick Start
