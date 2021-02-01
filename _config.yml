@@ -28,42 +28,47 @@ description:           >
   
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               DevOps Engineer
 
 # A list of keywords for your blog
-keywords:              [devops, cloud, aws, sre, site reliability engineer, software, engineer, ]
+keywords:              [devops, cloud, aws, sre, site reliability engineer, software, engineer, automation]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/profile.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Daniel Laszlo
   email:               laszlodaniel@icloud.com
+  picture:             /assets/img/profile.jpg
+#  about: |
+#    Hi, I'm Daniel Laszlo, DevOps engineer.
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Posts
+    url:               /
   - title:             About
     url:               /about/
+#  - title:             Example
+#    url:               /example/
+#  - title:             Documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2020. All rights reserved.
@@ -130,13 +135,13 @@ font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
-  - scope:
-      path:            hyde/
-    values:
-      accent_color:    rgb(38,139,210)
-      accent_image:
-        background:    rgb(32,32,32)
-        overlay:       false
+#  - scope:
+#      path:            hyde/
+#    values:
+#      accent_color:    rgb(38,139,210)
+#      accent_image:
+#        background:    rgb(32,32,32)
+#        overlay:       false
 
   # Don't include documents in assets in the sitemap
   - scope:
@@ -185,7 +190,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      G-KWJDKRCEYH
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -219,7 +224,7 @@ hydejack:
   # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.
   # Note that this will not hide the navbar completely, only replace it with a static one.
   # Use custom css to hide completely, e.g. `#_navbar { display: none }`.
-  no_navbar:           false
+  no_navbar:           true
 
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
@@ -230,9 +235,9 @@ hydejack:
   # This will increase site build speed dramatically!
   no_inline_css:       false
 
-  # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
+  # Set to `true` if you don't intend on changing the accent color on a per-page basis.
   # This will increase site build speed!
-  no_page_style:       false
+  no_page_style:       true
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
