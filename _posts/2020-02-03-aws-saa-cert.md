@@ -29,15 +29,15 @@ really lacked actual AWS hands-on experience.
 ## Learning path and resources
 
 I am really thorough when it comes to choosing learning material. After doing my research and finding the [AWS 
-Certifications subreddit](https://www.reddit.com/r/AWSCertifications/), I opted to use the **video course** from [St
-éphane Maarek's Udemy course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/). It 
+Certifications subreddit](https://www.reddit.com/r/AWSCertifications/), I opted to use the **video course** from 
+[Stéphane Maarek's Udemy course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/). It 
 did not disappoint. Stéphane's course includes 24 hours of on-demand video - each and every minute full of useful 
-information! I actually ended up with 73 pages of notes! I tracked my progress by writing down how much content I 
+information. I actually ended up with 73 pages of notes. I tracked my progress by writing down how much content I 
 watched after each learning session. With this approach, I could set deadlines and estimate when I will be ready for 
 the practice tests. When I had a full day dedicated just to learning e.g. on the weekends, I could watch about 1.5 
 to 2 hrs worth of content while being able to progress about 0.5 to 1 hours on weekdays. Complementary to 
 watching the videos, I did hands-on labs as well as digging deeper into topics I was interested in or didn't 
-understand for the first time. It turned out, these activities took up about triple as much! Also, on some days 
+understand for the first time. It turned out, these activities took up about triple as much. Also, on some days 
 , I looked at my previous notes to see if I had forgotten any of the concepts I had learned. In other occasions 
 I just needed a "day off" from learning.
 
@@ -46,7 +46,7 @@ Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architec
 was just as important to my learning process as the video course. The multiple-choice format is the same as in the 
 real exam and the wording is very similar. It not only tested my knowledge, but helped to identify concepts I needed 
 to brush up on. Every question includes detailed explanation to why an answer is correct. This was a godsend and 
-helped me so much to be successful in the exam! I would advise to achieve 80-85%+ in the practice exams to be 
+helped me so much to be successful in the exam. I would advise to achieve 80-85%+ in the practice exams to be 
 completely confident in the real exam.
 
 I also participated in a [live exam readiness 
@@ -75,7 +75,7 @@ silent. After that, they released my exam. I had one occasion where the proctor 
 hand was in front of my mouth. I was so surprised they called in for that, because sometimes this just helps me 
 think. I had to remind myself to lower my hand several times as I found myself going back to doing it. 🙂
 
-After I sat through the exam and answered all 65 questions, I got my result: **I PASSED!**
+After I sat through the exam and answered all 65 questions, I got my result: **I PASSED**
 
 I was so happy! Days, weeks and long nights of preparation turn out to be fruitful, such a good feeling!!! 🙂
 
