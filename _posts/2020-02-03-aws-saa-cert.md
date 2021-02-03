@@ -86,7 +86,3 @@ I got the official results and my badge after a day.
 ![2020-02-03-aws-saa-cert/aws-certified-solutions-architect-associate.png](/assets/img/2020-02-03-aws-saa-cert/aws-certified-solutions-architect-associate.png)
 
 [https://www.youracclaim.com/badges/deaac25c-c021-4ea4-9554-51c0e0ed8243/](https://www.youracclaim.com/badges/deaac25c-c021-4ea4-9554-51c0e0ed8243/public_url)
-
-## Thank you note
-
-I would like to say thanks to [TC2](https://tc2.hu/) for supporting me on this journey!
